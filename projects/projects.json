@@ -92,11 +92,11 @@
   {
     "name": "JavaScript Projects Website",
     "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
+    "image": "flipkartphp",
+    "category": "lamp",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
     }
   },
   {
