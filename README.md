@@ -24,4 +24,4 @@ If you want to contact me, you can reach me through below handles.
 © 2023 Arif Mahmud Pranto
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://arifmahmud.com)
