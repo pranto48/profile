@@ -1,10 +1,10 @@
 [
     {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+        "name": "Linux",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Made_with_Linux_green.svg/80px-Made_with_Linux_green.svg.png"
     },
     {
-        "name": "Server",
+        "name": "Windows",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Windows_logo_-_2012_%28red%29.svg/66px-Windows_logo_-_2012_%28red%29.svg.png"
     },
     {
