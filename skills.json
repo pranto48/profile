@@ -12,8 +12,8 @@
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sophos_logo.png/100px-Sophos_logo.png"
     },
     {
-        "name": "Redux",
-        "icon": "https://img.icons8.com/color/48/000000/redux.png"
+        "name": "Mikrotik",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MikroTik_logo.svg/100px-MikroTik_logo.svg.png"
     },
     {
         "name": "Firebase",
@@ -24,8 +24,8 @@
         "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
     },
     {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+        "name": "Synology",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Synology_Logo.svg/100px-Synology_Logo.svg.png"
     },
     {
         "name": "ChakraUI",
