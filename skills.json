@@ -29,7 +29,7 @@
     },
     {
         "name": "IT",
-        "icon": "https://github.com/pranto48/profile/blob/main/assets/images/itsupport.png"
+        "icon": "https://raw.githubusercontent.com/pranto48/profile/main/assets/images/itsupport.png"
     },
     {
         "name": "TailwindCSS",
@@ -93,7 +93,7 @@
     },
     {
         "name": "Endpoint",
-        "icon": "https://github.com/pranto48/profile/blob/main/assets/images/Endpoint.png"
+        "icon": "https://raw.githubusercontent.com/pranto48/profile/main/assets/images/Endpoint.png"
     },
     {
         "name": "Netlify",
