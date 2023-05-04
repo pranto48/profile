@@ -1,7 +1,7 @@
 [
     {
         <style>
-h1 {text-align: center;}
+text-align: center;
         "name": "Linux",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Made_with_Linux_green.svg/80px-Made_with_Linux_green.svg.png"
     },
